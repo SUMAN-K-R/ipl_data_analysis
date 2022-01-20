@@ -1,2 +1,1 @@
-# ipl_data_analysis
-I Analyse the ipl data using Power BI tool
+Microsoft Power BI is used to run reports and surface insights based on a company's data. Power BI can connect to a wide range of data sets, and “tidies up” the info it's fed so that it can be better digested and understood. The reports and visuals generated from this data can then be shared with other users.
